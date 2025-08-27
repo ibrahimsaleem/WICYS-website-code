@@ -1,0 +1,135 @@
+WiCyS UH - Women in Cybersecurity Roster
+==========================================
+
+PRIMARY CONTACT
+---------------
+Atiya Minhaz Shaik
+
+CURRENT OFFICERS (2025-2026)
+----------------------------
+PRESIDENT
+- Atiya Minhaz Shaik
+
+VICE PRESIDENT
+- Zainab Khimji
+
+SECRETARY
+- Syed Mohammad Owais Vazir
+
+OUTREACH OFFICER
+- Ibrahim Mohammad
+  * Technical support website developer
+  * AI Engineer Intern at NOV Cybersecurity
+  * Developed advanced AI tools for members
+
+OUTREACH OFFICER
+- Manaswini Golla
+
+EVENT AND FINANCIAL OFFICER
+- Jayanthi, FNU
+
+FINANCIAL OFFICER
+- Vaidehi Patel
+
+EDUCATION OFFICER
+- Bharatraj Pandian
+
+EDUCATION CHAIR
+- Feka Ankiabom
+
+SOCIAL MEDIA OFFICER
+- Pham Madeleine
+
+ADVISOR
+- Yueqin Huang
+
+PREVIOUS OFFICERS
+----------------
+SECONDARY STUDENT OFFICER 21-22
+- Anitha Nehru
+
+ADVISOR 23-24
+- Yueqin Huang
+
+FINANCIAL STUDENT OFFICER 23-24
+- Vaidehi Patel
+
+PRIMARY STUDENT OFFICER 23-24
+- Chiemela Ejim
+
+TECHNICAL PROGRAMS DIRECTOR
+- Isabel Santiago
+
+ADVISOR 24-25
+- Yueqin Huang
+
+FINANCIAL STUDENT OFFICER 24-25
+- Vaidehi Patel
+
+PRIMARY STUDENT OFFICER 24-25
+- Vasanthi Kollimarla
+
+ADVISOR 25-26
+- Yueqin Huang
+
+PRIMARY STUDENT OFFICER 25-26
+- Atiya Minhaz Shaik
+
+MEMBERSHIP STATISTICS
+--------------------
+Total Members: 67
+Active Members: 48+
+Graduate Students: 12
+Undergraduate Students: 36
+
+MEMBERSHIP TIERS
+----------------
+FREE MEMBERSHIP ($0)
+- Access to all chapter sessions and events
+- Basic educational resources
+- Community Discord access
+- Chapter email updates
+- Networking opportunities
+- Resume review sessions
+
+PREMIUM MEMBERSHIP ($19/year)
+- Everything in Free Membership
+- Full access to CareerPath AI tool
+- Full access to AI Resume Generator
+- Weekly cybersecurity newsletter
+- Weekly job opportunities newsletter
+- Priority access to workshops
+- Exclusive industry mentorship
+- Leadership opportunities
+- Committee participation
+
+GET INVOLVED OPPORTUNITIES
+--------------------------
+1. Join as a Member (Free or Premium)
+2. Attend Workshops & Events
+3. Participate in CTF Competitions
+4. Join Committees
+5. Apply for Leadership Positions
+6. Mentor Other Members
+7. Contribute to Technical Projects
+8. Network with Industry Professionals
+9. Attend WiCyS Global Conference
+10. Share Knowledge & Resources
+
+CONTACT INFORMATION
+-------------------
+Primary Contact: Atiya Minhaz Shaik
+Email: wicsuh@gmail.com
+Discord: [Discord Link]
+LinkedIn: [LinkedIn Page]
+Instagram: [Instagram Handle]
+
+FOCUS AREAS
+-----------
+- Cloud Security
+- Blue Team & SIEM
+- Governance, Risk & Compliance
+- AppSec & SDLC
+- AI in Cybersecurity
+- Career Development
+- Leadership Training

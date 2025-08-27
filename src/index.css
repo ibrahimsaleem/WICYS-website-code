@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+/* Base layer additions */
+@theme {
+  --color-wicys-purple: #6a2c91; /* WiCyS primary */
+  --color-wicys-green: #a6ce39;  /* WiCyS accent */
+  --color-uh-red: #c8102e;       /* University of Houston */
+  --color-ink-900: #0f172a;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+.gradient-hero {
+  background: radial-gradient(1200px 600px at 80% -10%, rgb(200 16 46 / 12%), transparent 60%),
+              radial-gradient(1000px 600px at -10% 10%, rgb(106 44 145 / 18%), transparent 60%),
+              linear-gradient(135deg, rgb(106 44 145 / 85%), rgb(168 85 247 / 65%));
+}
+
+.container-wide {
+  max-width: 1200px;
+}

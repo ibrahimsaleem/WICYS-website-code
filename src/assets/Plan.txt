@@ -1,0 +1,66 @@
+
+ 1. Homepage
+Brief intro about WiCyS UH Chapter and mission
+Eye-catching banner with upcoming events or highlights
+“Join Us” call-to-action (CTA) button
+Latest announcements or featured member spotlight
+2. About Us
+Mission & Vision
+Chapter history and affiliation with WiCyS National
+Officer Team with photos and roles
+Advisor & Partners section (if any)
+3. Events & Calendar
+List of past and upcoming events with images, RSVP links
+Event categories: Workshops, Career Panels, Socials, Competitions, Conferences
+Google Calendar integration or embedded calendar
+4. Join Us / Get Involved
+Membership benefits
+How to join (Google Form or MS Form)
+Volunteering & leadership opportunities
+Officer recruitment process
+5. Resources
+Cybersecurity learning resources
+Recording links or slide decks from past workshops
+Internship & scholarship opportunities
+Resume & LinkedIn templates or tips
+6. News & Highlights / Blog
+Event recaps, member achievements
+WiCyS Conference participation highlights
+Guest speaker interviews or blog-style content
+7. Gallery
+Event photo albums
+WiCyS conference pictures
+Behind-the-scenes moments
+8. Contact Us
+Chapter email
+Social media links (Instagram, LinkedIn, Discord, etc.)
+Embedded contact form for inquiries or collaborations
+🛠️ Technical/Interactive Features
+Member Portal (optional): Login-based space for members to access exclusive content (slides, PDFs, mentoring info)
+Newsletter Sign-up: Integration with Mailchimp or similar tool
+Event RSVP system (Google Forms or Eventbrite embed)
+Accessibility features: ALT text, readable fonts, mobile-friendly design
+Analytics: Integrate Google Analytics to track visits & engagement
+
+
+The Event Details
+ 
+WiCyS Global Conference 2025 Dates - April 2-5, 2025, Dallas, TX.         The Global Exchange: AI for Business, Society & Global Affairs 
+
+📍 Hosted by the World Affairs Council of Greater Houston
+
+🗓️ June 12, 2025                                                                                                    Industrial Advisor, Isha Desai, featured in the Women in Tech Chronicles magazine! 🌟 Posted her magazine and featured her in our wicys uh page
+
+4/2/2025- Officer Photo shoot at University of Houston to create and boost the visibility of wicys uh on campus and as well as social media
+ 
+also feature our senior advisors and our industrial advisor in the officers page and also our UH advisor 
+
+🌟 Nice-to-Have Extras
+Testimonials from alumni or past officers
+WiCyS UH Merchandise (if applicable)
+Mentorship Program Info Page
+Sponsorship/Partnership Page: Highlight sponsors and how others can support
+FAQ Section for common queries (membership, meetings, etc.)
+Live Chat widget (optional, for real-time Q&A during recruitment seasons)
+
+
